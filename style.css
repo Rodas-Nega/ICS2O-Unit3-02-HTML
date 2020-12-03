@@ -1,0 +1,61 @@
+#image {
+  float: right;
+  border: 2px solid black
+  background-color:aquamarine;
+  border-style: inset;
+  border: 2px solid black;
+  margin: 25px;
+  padding: 2px;
+  text-align: left;
+}
+
+.img {
+  float: right;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.information {
+  background-color: aquamarine;
+  color: rgb(13, 59, 36);
+  border-collapse: collapse;
+  border: 2px solid black;
+  margin: 25px; 
+  padding: 2px; 
+  text-align: center;
+}  
+
+body {
+  overflow: hidden;
+  
+}
+
+th {
+  background-color: blue;
+  color: yellow;
+  border-collapse: collapse;
+  border: 2px solid black;
+  margin: 25px; 
+  padding: 2px;
+  height: 100px;
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+td {
+  background-color: yellow;
+  color: blue;
+  border-collapse: collapse;
+  border: 2px solid black;
+  margin: 25px; 
+  padding: 2px; 
+  height: 100px;
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
